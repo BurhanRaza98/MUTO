@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSRemindersUsageDescription</key>
+	<string>We need access to reminders to set task notifications</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need access to your photo library to add images to tasks</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>We need access to your calendar to display and manage your events</string>
+</dict>
+</plist>
